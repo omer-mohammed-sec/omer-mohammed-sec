@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Omer Mohammed
 
-<!--
-**omer-mohammed-sec/omer-mohammed-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cyber Security Enthusiast | Red Team Beginner  
+🧪 Learning Ethical Hacking, Network Security & SOC Fundamentals  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Passionate about Cyber Security and Ethical Hacking
+- Hands-on learning using real labs and environments
+- Focused on Red Team fundamentals and defensive awareness
+- Documenting my learning journey step by step on GitHub
+
+---
+
+### 🛠️ Skills & Tools
+- Linux Fundamentals (Kali Linux)
+- Networking Basics
+- Web Security Basics
+- Nmap, Gobuster, Wireshark
+- Intro to Metasploit & Burp Suite
+
+---
+
+### 📚 Learning Platforms
+- TryHackMe
+- ISC² (Learner)
+- Cisco Networking (Learner)
+- ALX Africa (Learner)
+- Digital Talent Program – DTP (Learner)
+
+---
+
+### 📂 What You'll Find Here
+- 📘 Cybersecurity notes
+- 🧪 Practice labs & write-ups
+- 🔍 Security tools usage
+- 🧠 Learning summaries
+
+---
+
+⚠️ All activities are for **educational and ethical purposes only**.
